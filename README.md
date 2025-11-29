@@ -1,4 +1,4 @@
-<!-- Typing SVG Animation Header --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Louie Calma Jr.!;CS+Student+%7C+Backend+Dev+%7C+AI+Builder;Python,+C%23,+Java,+JS,+SQL+Enthusiast;Crafting+innovative+software+one+line+at+a+time...&center=true&width=500&height=45&color=2E8B57&font=Fira+Code&size=28" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" /> </p>
+<!-- Typing SVG Animation Header --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Louie+Calma+Jr.!;CS+Student+%7C+Backend+Dev+%7C+AI+Builder;Python,+C%23,+Java,+JS,+SQL+Enthusiast;Crafting+innovative+software+one+line+at+a+time...&center=true&width=500&height=45&color=2E8B57&font=Fira+Code&size=28" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" /> </p>
 <div align="center">About Me</div>
 <div align="center">
 💬 Computer Science student specializing in Backend Software Development and Data Science.
