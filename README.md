@@ -1,121 +1,16 @@
-# 👋 Welcome to My Digital Canvas
-
-```
-> const developer = { languages: ['Python', 'C#', 'Java'], passion: '∞' };
-> console.log("Building intelligent software solutions...");
-// > Building intelligent software solutions...
-```
-
----
-
-## 🎯 About Me
-
-Passionate **Software Developer** with deep expertise in **C#**, **Java**, and **Python**. I specialize in building robust backend systems, data analysis, and intelligent applications that solve real-world problems.
-
-- 💻 **Backend Development** with C# and Java
-- 🔬 **Data Analysis** and Statistical Modeling
-- 🤖 **Machine Learning** and Computer Vision applications
-- 📊 Turning raw data into actionable insights
-- 🛡️ Writing clean, scalable, maintainable code
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python • C# • Java • JavaScript • SQL
-
-**Backend:** ASP.NET Core • Spring Boot • Entity Framework • LINQ
-
-**Data & ML:** Pandas • NumPy • Scikit-learn • TensorFlow • Jupyter
-
-**Computer Vision:** OpenCV • MediaPipe • OpenPose
-
-**Tools:** Git • Visual Studio • IntelliJ IDEA • Google Colab • VS Code
-
----
-
-## 📊 Quick Stats
-
-| Category | Details |
-|----------|---------|
-| 💾 **Primary Languages** | Python, C#, Java |
-| 🏗️ **Backend Focus** | ASP.NET Core, Spring Boot |
-| 📈 **Data Stack** | Pandas, NumPy, Scikit-learn |
-| 🤖 **ML/AI** | TensorFlow, MediaPipe, OpenPose |
-| 🗄️ **Databases** | SQL Server, PostgreSQL, MongoDB |
-
----
-
-## 🚀 Featured Projects
-
-### Data Analysis & Visualization
-Interactive dashboards and analytical reports using Python, Pandas, and visualization libraries.
-- **Tech:** Python | Pandas | Matplotlib | Jupyter | Status: 🔄 Ongoing
-
-### Computer Vision Applications
-Real-time pose detection and analysis using MediaPipe and OpenPose for motion tracking systems.
-- **Tech:** Python | MediaPipe | OpenCV | TensorFlow | Status: 🔧 In Development
-
-### Backend Systems
-Scalable server-side applications built with C# ASP.NET Core and Java Spring Boot with robust APIs.
-- **Tech:** C# | Java | ASP.NET Core | Spring Boot | SQL | Status: ✅ Production Ready
-
----
-
-## 🎓 Core Expertise
-
-<details>
-<summary><b>📊 Data Analysis & Science</b></summary>
-
-- Data Processing & Transformation with Pandas
-- Statistical Analysis & Hypothesis Testing
-- Exploratory Data Analysis (EDA)
-- Predictive Modeling with Scikit-learn & TensorFlow
-- Time Series Analysis & Forecasting
-
-</details>
-
-<details>
-<summary><b>💻 Software Development (C# & Java)</b></summary>
-
-- Object-Oriented Programming & Design Patterns
-- RESTful API Design & Development
-- Database Design & Optimization
-- Clean Code & SOLID Principles
-- Performance Optimization & Testing
-
-</details>
-
-<details>
-<summary><b>🤖 Computer Vision & AI</b></summary>
-
-- Pose Estimation with MediaPipe & OpenPose
-- Real-time Video Processing
-- Object Detection & Image Classification
-- Custom Model Training & Fine-tuning
-
-</details>
-
----
-
-## 🤝 Open to Collaborating On
-
-📊 Data Analysis & ML projects • 🔬 Machine Learning applications • 👁️ Computer Vision innovations • 💻 Backend development • 🧠 Software architecture • 🛡️ System design
-
----
-
-## 📬 Connect With Me
-
-- 💼 **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
-- 📧 **Email:** your.email@example.com
-- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
+<!-- Typing SVG Animation Header --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+YourName!;CS+Student+%7C+Backend+Dev+%7C+AI+Builder;Python,+C%23,+Java,+JS,+SQL+Enthusiast;Crafting+innovative+software+one+line+at+a+time...&center=true&width=500&height=45&color=2E8B57&font=Fira+Code&size=28" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" /> </p>
+<div align="center">About Me</div>
 <div align="center">
-
-**"Code is art. Architecture is science. Together, they solve problems."** 💡
-
-⭐ If you find my work interesting, feel free to star my repositories!
+💬 Computer Science student specializing in Backend Software Development and Data Science.
+💻 Skilled in building high-impact, scalable solutions that mix backend logic, AI, and seamless data flows.
 
 </div>
+<div align="center">Tech Stack & Tools</div>
+<p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
+<div align="center">Featured Projects</div>
+<table align="center"> <tr> <td>🤖 <b>SnoozeNet</b></td> <td> AI-powered chat and document retrieval app.<br> Features real-time Q&A, semantic search, and smooth model deployment. </td> </tr> <tr> <td>📚 <b>Shelfy</b></td> <td> AI-powered library management platform.<br> Automates book inventory, smart recommendations, and seamless operations. </td> </tr> <tr> <td>⚡ <b>Flashee</b></td> <td> Automated flashcard generator.<br> Transforms notes and documents into effective study materials instantly. </td> </tr> <tr> <td>🏛️ <b>Bilis</b></td> <td> Barangay management system.<br> Digitizes local services, records, and workflows for efficiency and transparency. </td> </tr> </table>
+<div align="center">My GitHub Stats</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com?user=yourusername&theme=react&hide_border=true&border_radius=6.4" alt="GitHub Streak" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Langs" height="165"/> </p>
+<div align="center">Hobbies & Fun</div>
+<p align="center">🎮 <b>Amateur Esports League of Legends Player</b> | 🍿 TV & Movie Enthusiast</p> <p align="center">When not coding, I’m strategizing in Summoner’s Rift or binge-watching the latest releases! 🏆</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Let's+build+something+extraordinary+together!&center=true&width=440&color=af4261&font=Fira+Code&size=20" alt="Build Together Typing SVG" /> </p>
