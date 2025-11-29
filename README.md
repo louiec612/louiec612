@@ -1,4 +1,4 @@
-<!-- Typing SVG Animation Header --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Louie+Calma+Jr.!;CS+Student+%7C+Backend+Dev+%7C+AI+Builder;Python,+C%23,+Java,+JS,+SQL+Enthusiast;Crafting+innovative+software+one+line+at+a+time...&center=true&width=500&height=45&color=2E8B57&font=Fira+Code&size=28" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" /> </p>
+<!-- Typing SVG Animation Header --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Louie+Calma+Jr.!;CS+Student+%7C+Backend+Dev+%7C+AI+Builder;Python,+C%23,+Java,+JS,+SQL+Enthusiast;Crafting+innovative+software+one+line+at+a+time...&center=true&width=500&height=90&color=2E8B57&font=Fira+Code&size=28" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" /> </p>
 <div align="center">About Me</div>
 <div align="center">
 💬 Computer Science student specializing in Backend Software Development and Data Science.
@@ -13,4 +13,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com?user=yourusername&theme=react&hide_border=true&border_radius=6.4" alt="GitHub Streak" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Langs" height="165"/> </p>
 <div align="center">Hobbies & Fun</div>
 <p align="center">🎮 <b>Amateur Esports League of Legends Player</b> | 🍿 TV & Movie Enthusiast</p> <p align="center">When not coding, I’m strategizing in Summoner’s Rift or binge-watching the latest releases! 🏆</p>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Let's+build+something+extraordinary+together!&center=true&width=440&color=af4261&font=Fira+Code&size=20" alt="Build Together Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Let's+build+something+extraordinary+together!&center=true&width=440&color=af4261&font=Fira+Code&size=28&height=90" alt="Build Together Typing SVG" /> </p>
